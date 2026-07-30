@@ -1,4 +1,4 @@
-# Modelo do Projeto Back-End desenvolvida ao longo das aulas
+# Modelo do Projeto Back-End da Copa desenvolvida ao longo das aulas
 
 ## Para executar, siga os passos:
 
